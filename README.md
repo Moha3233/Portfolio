@@ -1,4 +1,3 @@
-# 👨‍🔬 Mohan Duratkar  
 **Biochemist & Researcher**  
 📧 [assistantprofessormohan@gmail.com](mailto:assistantprofessormohan@gmail.com) | 📱 +91 7249618173  
 
