@@ -1,3 +1,4 @@
+<div align="center" style="background-color:#0D1117; padding:20px; border-radius:10px; color:#C9D1D9;">
 **Biochemist & Researcher**  
 📧 [assistantprofessormohan@gmail.com](mailto:assistantprofessormohan@gmail.com) | 📱 +91 7249618173  
 
