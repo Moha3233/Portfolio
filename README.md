@@ -4,18 +4,18 @@ Biochemistry professional with 2+ years of research and experience teaching. Ski
 
 ### TECHNIQUES AND TOOLS HANDLED
 ### Techniques
-•	Chromatography
-•	Electrophoresis
-•	UV-Vis. spectroscopy
-•	Cryocentrifugation	
+- Chromatography
+- Electrophoresis
+- UV-Vis. spectroscopy
+- Cryocentrifugation	
 
 ### Instruments
-•	Biochemistry Autoanalyzer (Erba)
-•	Microscopes
-•	Spectrophotometer
-•	Blood Cell Counter (Erma)
-•	PCR
-•	Calorimeter	
+- Biochemistry Autoanalyzer (Erba)
+- Microscopes
+- Spectrophotometer
+- Blood Cell Counter (Erma)
+- PCR
+- Calorimeter	
 
 ### Bioinformatics Tools
 •	Phylogeny.fr & MEGA
