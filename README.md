@@ -1,4 +1,3 @@
-### MOHAN DURATKAR
 ### Biochemist & Researcher | assistantprofessormohan@gmail.com | +91 7249618173 | 
 ### PROFILE SUMMARY
 Biochemistry professional with 2+ years of research and experience teaching. Skilled in chromatography, electrophoresis, spectrophotometry, and bioinformatics tools. Certified in proteomics and genome editing, with a strong focus on Drug discovery and AI/ML in biology. Proven academic excellence and mentoring expertise for MH-SET aspirants. Multilingual and committed to advancing research in life science
