@@ -4,7 +4,7 @@
 ---
 
 ## 🧪 **Profile Summary**  
-Biochemistry professional with 2+ years of research and teaching experience. Skilled in chromatography, electrophoresis, spectrophotometry, and bioinformatics tools. Certified in proteomics and genome editing, with a strong focus on drug discovery and AI/ML in biology. Proven academic excellence and mentoring expertise for MH-SET aspirants. Multilingual and committed to advancing research in life science.
+Biochemistry professional with 3+ years of research and teaching experience. Skilled in chromatography, electrophoresis, spectrophotometry, and bioinformatics tools. Certified in proteomics and genome editing, with a strong focus on drug discovery and AI/ML in biology. Proven academic excellence and mentoring expertise for MH-SET aspirants. Multilingual and committed to advancing research in life science.
 
 ---
 
