@@ -10,18 +10,20 @@ Biochemistry professional with 2+ years of research and teaching experience. Ski
 ---
 
 ## 🧠 **Techniques and Tools**  
-| Techniques | Instruments | Bioinformatics Tools |
-|-----------|-------------|----------------------|
+
+| **Techniques** | **Instruments** | **Bioinformatics Tools** |
+|---------------|-----------------|--------------------------|
 | Chromatography | Biochemistry Autoanalyzer (Erba) | Phylogeny.fr & MEGA |
 | Electrophoresis | Microscopes | BLAST, FASTA |
 | UV-Vis Spectroscopy | Spectrophotometer | Autodock Vina, PyRx |
 | Cryocentrifugation | Blood Cell Counter (Erma) | PyMol, ChimeraX 1.8 |
-| | PCR | Bolivia Discovery Studio |
-| | Calorimeter | |
+| - | PCR | Bolivia Discovery Studio |
+| - | Calorimeter | - |
 
 ---
 
 ## 🏆 **Key Skills**  
+
 - **Programming Languages:** Python  
 - **Databases:** DDBJ, EMBL, NCBI, IMPAAT  
 - **Libraries:** Biopython, Pandas, Matplotlib, ggplot  
@@ -33,6 +35,7 @@ Biochemistry professional with 2+ years of research and teaching experience. Ski
 ---
 
 ## 💼 **Professional Experience**  
+
 ### **MH-SET Educator (Life Science)** — *06/2023 – Present*  
 - Providing guidance and mentorship to aspiring candidates preparing for the MH-SET exam.  
 
@@ -45,26 +48,29 @@ Biochemistry professional with 2+ years of research and teaching experience. Ski
 ---
 
 ## 🎓 **Academic Qualifications**  
-| Year | Qualification | Institute | % / CGPA |
-|------|---------------|-----------|-----------|
-| 2021 | M.Sc. (Biochemistry) | Shri Shivaji College of Arts, Commerce and Science, Akola | 7.8 |
-| 2019 | B.Sc. (CHE, BCM, FRS) | Shri Shivaji College of Arts, Commerce and Science, Akola | 71.7% |
-| 2015 | HSC | Bhartiya Dnyanpeeth Jr. College, Murtizapur | 63.85% |
-| 2013 | SSC | Bhartiya Dnyanpeeth Vidyalay, Murtizapur | 80.6% |
+
+| **Year** | **Qualification** | **Institute** | **% / CGPA** |
+|----------|------------------|---------------|---------------|
+| 2021     | M.Sc. (Biochemistry) | Shri Shivaji College of Arts, Commerce and Science, Akola | 7.8 |
+| 2019     | B.Sc. (CHE, BCM, FRS) | Shri Shivaji College of Arts, Commerce and Science, Akola | 71.7% |
+| 2015     | HSC | Bhartiya Dnyanpeeth Jr. College, Murtizapur | 63.85% |
+| 2013     | SSC | Bhartiya Dnyanpeeth Vidyalay, Murtizapur | 80.6% |
 
 ---
 
 ## 🔬 **Projects**  
-| Project Title | Guide | Date |
-|--------------|-------|------|
-| **Drug Discovery through Virtual Screening using Bioinformatics Database** | Dr. Pradyot Banerjee | Ongoing |
-| **Changes in Brain Activities on Eating Chocolate** | Asst. Prof. Sanjiv M. Patil | Sep 2020 – March 2021 |
+
+| **Project Title** | **Guide** | **Date** |
+|------------------|-----------|----------|
+| Drug Discovery through Virtual Screening using Bioinformatics Database | Dr. Pradyot Banerjee | Ongoing |
+| Changes in Brain Activities on Eating Chocolate | Asst. Prof. Sanjiv M. Patil | Sep 2020 – March 2021 |
 
 ---
 
 ## 🏅 **Certifications & Internships**  
-| Certification | Institution/Organizer | Date |
-|--------------|-----------------------|------|
+
+| **Certification** | **Institution/Organizer** | **Date** |
+|------------------|--------------------------|----------|
 | AI/ML in Biology, Bioinformatics | Biotechnika | Ongoing |
 | Cell Culture Technologies | IIT-Kanpur (NPTEL) | Aug-Oct 2024 |
 | Introduction to Proteomics | IIT-Bombay (NPTEL) | Jul-Sep 2024 |
@@ -74,8 +80,9 @@ Biochemistry professional with 2+ years of research and teaching experience. Ski
 ---
 
 ## 🎯 **Seminars/Conferences/Workshops Attended**  
-| Event Name | Institution/Organizer | Date |
-|------------|-----------------------|------|
+
+| **Event Name** | **Institution/Organizer** | **Date** |
+|---------------|---------------------------|----------|
 | Data Analytics Workshop & Micro-degree | Jobaaj Learning | Ongoing |
 | PMRF Course on “X-Chromosome Inactivation” | Harshada Jadhav, IISC Bangalore | Ongoing |
 | Workshop on Basic Bioinformatics | Edufabrica | April 17-19, 2024 |
