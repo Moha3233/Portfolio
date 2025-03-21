@@ -74,6 +74,7 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 
 | **Certification** | **Institution/Organizer** | **Date** |
 |------------------|--------------------------|----------|
+| **GATE XL 2025** | **IIT Roorkee** | **2025** |
 | **AI/ML in Biology, Bioinformatics** | **Biotechnika** | **Ongoing** |
 | **Cell Culture Technologies** | **IIT-Kanpur (NPTEL)** | **Aug-Oct 2024** |
 | **Introduction to Proteomics** | **IIT-Bombay (NPTEL)** | **Jul-Sep 2024** |
