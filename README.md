@@ -21,7 +21,7 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **Cell Culture Technologies** | **IIT-Kanpur (NPTEL)** | **Aug-Oct 2024** |
 | **Introduction to Proteomics** | **IIT-Bombay (NPTEL)** | **Jul-Sep 2024** |
 | **MH-SET (Life Science)** | **SPPU** | **June 2023** |
-
+| **CSIR-Summer Research Training Program (CSIR-SRTP)** | **CSIR-NEIST** | **2020** |
 ---
 
 ## 🧠 Techniques and Tools  
@@ -95,7 +95,7 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **International Webinar on Application of Mass Spectroscopy** | **BMS Institute of Technology & Management** | **Sept 19, 2020** |
 | **One Day Workshop on AI in Drug Discovery** | **CSIR-NEIST** | **Sept 01, 2020** |
 | **Webinar on Chemistry and Biology of Natural Products** | **CSIR-NEIST** | **July 2020** |
-| **CSIR-Summer Research Training Program (CSIR-SRTP)** | **CSIR-NEIST** | **2020** |
+
 
 ---
 
