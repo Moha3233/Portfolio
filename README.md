@@ -22,6 +22,7 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **Introduction to Proteomics** | **IIT-Bombay (NPTEL)** | **Jul-Sep 2024** |
 | **MH-SET (Life Science)** | **SPPU** | **June 2023** |
 | **CSIR-Summer Research Training Program (CSIR-SRTP)** | **CSIR-NEIST** | **2020** |
+
 ---
 
 ## 🧠 Techniques and Tools  
