@@ -11,6 +11,18 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 **Multilingual** and committed to advancing research in **life science**.  
 
 ---
+## 🏅 Certifications & Internships  
+
+| **Certification** | **Institution/Organizer** | **Date** |
+|------------------|--------------------------|----------|
+| **GATE XL 2025** | **IIT Roorkee** | **2025** |
+| **AI/ML in Biology, Bioinformatics** | **Biotechnika** | **Ongoing** |
+| **Computational Genomics** | **IISER, Bhopal (NPTEL)** | **Ongoing** |
+| **Cell Culture Technologies** | **IIT-Kanpur (NPTEL)** | **Aug-Oct 2024** |
+| **Introduction to Proteomics** | **IIT-Bombay (NPTEL)** | **Jul-Sep 2024** |
+| **MH-SET (Life Science)** | **SPPU** | **June 2023** |
+
+---
 
 ## 🧠 Techniques and Tools  
 
@@ -67,19 +79,6 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 |------------------|-----------|----------|
 | **Drug Discovery through Virtual Screening using Bioinformatics Database** | **Dr. Pradyot Banerjee** | **Ongoing** |
 | **Changes in Brain Activities on Eating Chocolate** | **Asst. Prof. Sanjiv M. Patil** | **Sep 2020 – March 2021** |
-
----
-
-## 🏅 Certifications & Internships  
-
-| **Certification** | **Institution/Organizer** | **Date** |
-|------------------|--------------------------|----------|
-| **GATE XL 2025** | **IIT Roorkee** | **2025** |
-| **AI/ML in Biology, Bioinformatics** | **Biotechnika** | **Ongoing** |
-| **Computational Genomics** | **IISER, Bhopal (NPTEL)** | **Ongoing** |
-| **Cell Culture Technologies** | **IIT-Kanpur (NPTEL)** | **Aug-Oct 2024** |
-| **Introduction to Proteomics** | **IIT-Bombay (NPTEL)** | **Jul-Sep 2024** |
-| **MH-SET (Life Science)** | **SPPU** | **June 2023** |
 
 ---
 
