@@ -24,11 +24,10 @@ Experienced in executing analytical projects, building dashboards, and deriving 
 
 ## 📊 Project Experience
 
-- **Deloitte Australia Data Analytics Job Simulation on Forage - April 2025**
+- **Deloitte Australia Data Analytics Job Simulation on Forage - April 2025**  
   Completed a Deloitte job simulation involving data analysis and forensic technology
   Created a data dashboard using Tableau
-  Used Excel to classify data and draw business conclusions
-
+  Used Excel to classify data and draw business conclusions.
 
 - **Kaggle Projects – Biological Data Analysis**  
   Built ML pipelines for ligand binding prediction and gene expression visualization using Python and R.
