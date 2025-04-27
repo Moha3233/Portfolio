@@ -24,8 +24,11 @@ Experienced in executing analytical projects, building dashboards, and deriving 
 
 ## 📊 Project Experience
 
-- **Data Analytics Virtual Internship** – *Deloitte Australia | Forage*  
-  Analyzed business datasets for fraud patterns using Excel and Tableau; created dashboards for reporting insights.
+- **Deloitte Australia Data Analytics Job Simulation on Forage - April 2025**
+•	Completed a Deloitte job simulation involving data analysis and forensic technology 
+•	Created a data dashboard using Tableau 
+•	Used Excel to classify data and draw business conclusions
+
 
 - **Kaggle Projects – Biological Data Analysis**  
   Built ML pipelines for ligand binding prediction and gene expression visualization using Python and R.
