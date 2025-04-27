@@ -11,6 +11,31 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 **Multilingual** and committed to advancing research in **life science**.  
 
 ---
+## 💼 Professional Experience  
+
+### ✅ MH-SET Educator (Life Science) — *06/2023 – Present*  
+- Providing **guidance** and **mentorship** to aspiring candidates preparing for the **MH-SET** exam.  
+
+### ✅ Assistant Professor (Biochemistry) — *08/2021 – 05/2023*  
+- Planned **biochemistry laboratory** practical and **theory lectures**.  
+- Prepared **reagents** and **chemicals**.  
+- Worked in **NAAC documentation** and served as an **Invigilator** for **Civil Services Examination**.  
+- Participated in **departmental outreach activities** like **health checkups** and **blood donation camps**.  
+
+---
+
+## 🏆 Key Skills  
+
+- **Programming Languages:** Python  
+- **Databases:** DDBJ, EMBL, NCBI, IMPAAT  
+- **Libraries:** Biopython, Pandas, Matplotlib, ggplot  
+- **Operating Systems:** Windows (XP/7/10/11), Ubuntu  
+- **Others:** MS Office (PowerPoint, Excel, Word)  
+- **Languages:** English, Marathi, Hindi, Japanese *(beginner)*  
+- **Soft Skills:** Excellent communication and presentation skills  
+
+---
+
 ## 🏅 Certifications & Internships  
 
 | **Certification** | **Institution/Organizer** | **Date** |
@@ -35,31 +60,6 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **Cryocentrifugation** | **Blood Cell Counter** (Erma) | **PyMol**, **ChimeraX 1.8** |
 | - | **PCR** | **Bolivia Discovery Studio** |
 | - | **Calorimeter** | - |
-
----
-
-## 🏆 Key Skills  
-
-- **Programming Languages:** Python  
-- **Databases:** DDBJ, EMBL, NCBI, IMPAAT  
-- **Libraries:** Biopython, Pandas, Matplotlib, ggplot  
-- **Operating Systems:** Windows (XP/7/10/11), Ubuntu  
-- **Others:** MS Office (PowerPoint, Excel, Word)  
-- **Languages:** English, Marathi, Hindi, Japanese *(beginner)*  
-- **Soft Skills:** Excellent communication and presentation skills  
-
----
-
-## 💼 Professional Experience  
-
-### ✅ MH-SET Educator (Life Science) — *06/2023 – Present*  
-- Providing **guidance** and **mentorship** to aspiring candidates preparing for the **MH-SET** exam.  
-
-### ✅ Assistant Professor (Biochemistry) — *08/2021 – 05/2023*  
-- Planned **biochemistry laboratory** practical and **theory lectures**.  
-- Prepared **reagents** and **chemicals**.  
-- Worked in **NAAC documentation** and served as an **Invigilator** for **Civil Services Examination**.  
-- Participated in **departmental outreach activities** like **health checkups** and **blood donation camps**.  
 
 ---
 
@@ -96,7 +96,6 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **International Webinar on Application of Mass Spectroscopy** | **BMS Institute of Technology & Management** | **Sept 19, 2020** |
 | **One Day Workshop on AI in Drug Discovery** | **CSIR-NEIST** | **Sept 01, 2020** |
 | **Webinar on Chemistry and Biology of Natural Products** | **CSIR-NEIST** | **July 2020** |
-
 
 ---
 
