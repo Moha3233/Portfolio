@@ -1,9 +1,9 @@
 # Biochemist | Research Educator | Molecular Biology Enthusiast
 📧 [assistantprofessormohan@gmail.com] | Pune, Maharashtra | 
 +91 7249618173
-Site: https://sites.google.com/view/brahmavivek-labs/home
-Portfolio: https://moha3233.github.io/Portfolio/
-GitHub: https://github.com/moha3233
+Site: [https://sites.google.com/view/brahmavivek-labs/home](https://sites.google.com/view/brahmavivek-labs/home)
+Portfolio: [https://moha3233.github.io/Portfolio/](https://moha3233.github.io/Portfolio/)
+GitHub: [https://github.com/moha3233](https://github.com/moha3233)
 
 
 ---
@@ -79,6 +79,7 @@ GitHub: https://github.com/moha3233
 
 | **Project Title** | **Guide** | **Date** |
 |------------------|-----------|----------|
+|BioMineViz – Environmental Bioremediation Analysis Dashboard | | **Mar 2025** |
 | **Drug Discovery through Virtual Screening using Bioinformatics Database** | **Dr. Pradyot Banerjee** | **Sep 2024- Feb 2025** |
 | **Changes in Brain Activities on Eating Chocolate** | **Asst. Prof. Sanjiv M. Patil** | **Sep 2020 – March 2021** |
 
