@@ -41,8 +41,8 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **Certification** | **Institution/Organizer** | **Date** |
 |------------------|--------------------------|----------|
 | **GATE XL 2025** | **IIT Roorkee** | **2025** |
-| **AI/ML in Biology, Bioinformatics** | **Biotechnika** | **Ongoing** |
-| **Computational Genomics** | **IISER, Bhopal (NPTEL)** | **Ongoing** |
+| **AI/ML in Biology, Bioinformatics** | **Biotechnika** | **Aug-Sep 2024** |
+| **Computational Genomics** | **IISER, Bhopal (NPTEL)** | **Jan-May 2025** |
 | **Cell Culture Technologies** | **IIT-Kanpur (NPTEL)** | **Aug-Oct 2024** |
 | **Introduction to Proteomics** | **IIT-Bombay (NPTEL)** | **Jul-Sep 2024** |
 | **MH-SET (Life Science)** | **SPPU** | **June 2023** |
@@ -78,7 +78,7 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 
 | **Project Title** | **Guide** | **Date** |
 |------------------|-----------|----------|
-| **Drug Discovery through Virtual Screening using Bioinformatics Database** | **Dr. Pradyot Banerjee** | **Ongoing** |
+| **Drug Discovery through Virtual Screening using Bioinformatics Database** | **Dr. Pradyot Banerjee** | **Sep 2024- Feb 2025** |
 | **Changes in Brain Activities on Eating Chocolate** | **Asst. Prof. Sanjiv M. Patil** | **Sep 2020 – March 2021** |
 
 ---
@@ -88,7 +88,6 @@ Proven **academic excellence** and **mentoring expertise** for **MH-SET** aspira
 | **Event Name** | **Institution/Organizer** | **Date** |
 |---------------|---------------------------|----------|
 | **Data Analytics Workshop & Micro-degree** | **Jobaaj Learning** | **Ongoing** |
-| **PMRF Course on “X-Chromosome Inactivation”** | **Harshada Jadhav, IISC Bangalore** | **Ongoing** |
 | **Workshop on Basic Bioinformatics** | **Edufabrica** | **April 17-19, 2024** |
 | **PMRF Course on “Introduction to Cancer Biology”** | **Ms. Sakshi Gupta, IISC Bangalore** | **Oct 23 – Feb 24** |
 | **PMRF Course on “Genome Editing: Introduction to CRISPR-Cas”** | **Ms. Sakshi Gupta, IISC Bangalore** | **Sept 2021 – Jan 2022** |
