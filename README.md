@@ -1,7 +1,7 @@
 # Biochemist | Research Educator | Molecular Biology Enthusiast
 📧 [assistantprofessormohan@gmail.com] | Pune, Maharashtra | 
 +91 7249618173 | Site: https://sites.google.com/view/brahmavivek-labs/home
-Portfolio: https://moha3233.github.io/Portfolio/ | GitHub: https://github.com/moha3233
+Portfolio: https://moha3233.github.io/Portfolio/ |  GitHub: https://github.com/moha3233
 
 
 ---
